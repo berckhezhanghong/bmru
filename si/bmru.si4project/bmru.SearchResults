@@ -1,5 +1,0 @@
----- DEBUG_LEVEL_2 Matches (4 in 2 files) ----
-debug.h (src) line 40 : #define DEBUG_LEVEL_2				2 // 调试输出等级2,输出重要信息
-ModbusParse in modbus.c (src) : 	    DebugStrOutput(DEBUG_LEVEL_2, "rec data len error\r\n");
-ModbusParse in modbus.c (src) : 	    DebugStrOutput(DEBUG_LEVEL_2, "rec data CRC error\r\n");
-ModbusParse in modbus.c (src) : 		    DebugStrOutput(DEBUG_LEVEL_2, "command type error\r\n");
